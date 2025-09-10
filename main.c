@@ -6,6 +6,7 @@ int *ptr = NULL;
 
 int main(){
     printf("hello, satyanarayan");
-    getch();
+    scanf("\n");
+    printf("hello, satyanarayan");
     return 0;
 }
